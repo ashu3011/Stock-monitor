@@ -1,0 +1,1 @@
+Java program and a web application that monitors stocks and provides REST API end points. It uses Yahoo Finance API to get the stock information.
