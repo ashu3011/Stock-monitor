@@ -1,5 +1,10 @@
 package StockMonitor.Model;
 
+/**
+ * Models the data, in our case just the company
+ * @author Ashutosh
+ *
+ */
 public class Company {
 	private String symbol;
 	private String name;
